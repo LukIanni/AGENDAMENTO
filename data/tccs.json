@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "Artigo",
+    "titulo": "O uso de IA na educação básica",
+    "aluno1": "João Silva",
+    "aluno2": "Maria Souza",
+    "aluno3": "",
+    "orientador": "Prof. Carlos Mendes",
+    "coorientador": "",
+    "apresentacao": "2025-06-15T10:00"
+  },
+  {
+    "tipo": "Monografia",
+    "titulo": "Impactos da energia solar em comunidades rurais",
+    "aluno1": "Ana Clara",
+    "aluno2": "Pedro Lima",
+    "aluno3": "Fernanda Costa",
+    "orientador": "Profa. Helena Rocha",
+    "coorientador": "Prof. Marcos Dias",
+    "apresentacao": "2025-06-20T14:30"
+  },
+  {
+    "tipo": "Relatório Técnico",
+    "titulo": "Desenvolvimento de aplicativo para agendamento médico",
+    "aluno1": "Lucas Almeida",
+    "aluno2": "",
+    "aluno3": "",
+    "orientador": "Prof. Eduardo Tavares",
+    "coorientador": "",
+    "apresentacao": "2025-07-01T09:00"
+  }
+]
