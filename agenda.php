@@ -31,7 +31,7 @@ if (file_exists('data/tccs.json')) {
                     <p><strong>Tipo:</strong> <?= $tcc['tipo'] ?></p>
                     <p><strong>Data:</strong> <?= date('d/m/Y H:i', strtotime($tcc['apresentacao'])) ?></p>
                     <div class="botoes-card">
-                        <a href="ver_tcc.php?id=<?= $index ?>" class="btn-vermelho">Abrir</a>
+                        <a href="showTcc.php?id=<?= $index ?>" class="btn-vermelho">Abrir</a>
                         <a href="excluir_tcc.php?id=<?= $index ?>" class="btn-preto" onclick="return confirm('Tem certeza que deseja excluir este TCC?')">Excluir</a>
                     </div>
                 </div>
